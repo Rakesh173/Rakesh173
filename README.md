@@ -19,7 +19,11 @@
   <a href="https://bit.ly/3IeEuHb"><img src="https://img.shields.io/badge/Résumé-22272E?style=flat-square" alt="Résumé"></a>
 </p>
 
-## Work
+<img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/spec-card.svg" alt="Profile statistics and language mix" width="100%">
+
+<img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/rule.svg" alt="" width="100%" height="10">
+
+### Work
 
 <table>
   <tr>
@@ -60,7 +64,17 @@
   </tr>
 </table>
 
-## Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/terminal.svg" alt="Terminal session comparing deterministic and randomized quick sort" width="620">
+</p>
+
+<p align="center">
+  <sub>Experiment 10, run as recorded. A fixed pivot degrades to 12.5 million comparisons<br>on sorted input. Choosing the pivot at random keeps it near 70 thousand.</sub>
+</p>
+
+<img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/rule.svg" alt="" width="100%" height="10">
+
+### Stack
 
 <p>
   <sub><b>LANGUAGES</b></sub><br>
@@ -100,7 +114,13 @@
   <img src="https://img.shields.io/badge/Postman-22272E?style=flat-square&logo=postman&logoColor=E6EDF3" alt="Postman">
 </p>
 
-## Activity
+<img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/rule.svg" alt="" width="100%" height="10">
+
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/profile-3d-contrib/calendar.svg" alt="Contribution calendar rendered in three dimensions" width="100%">
+</p>
 
 <p align="center">
   <picture>
@@ -114,11 +134,9 @@
   <img src="https://streak-stats.demolab.com?user=Rakesh173&hide_border=true&background=00000000&stroke=D0D7DE&ring=6E7781&fire=6E7781&currStreakLabel=6E7781&sideLabels=6E7781&currStreakNum=6E7781&sideNums=6E7781&dates=8B949E" alt="Contribution streak" width="480">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh173&bg_color=00000000&color=6E7781&line=6E7781&point=6E7781&area=true&area_color=8B949E&hide_border=true&hide_title=true" alt="Contribution graph" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/Rakesh173/Rakesh173/main/assets/rule.svg" alt="" width="100%" height="10">
 
-## Elsewhere
+### Elsewhere
 
 <p>
   <sub>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 614 236" width="614" height="236" role="img" aria-label="Terminal session comparing deterministic and randomized quick sort"><title>Deterministic quick sort degrades to 961 ms on sorted input. Randomized quick sort holds at 6 ms.</title><style>
+    text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,
+      "DejaVu Sans Mono",monospace;font-size:12.5px}
+    .frame{fill:none;stroke:#d0d7de}
+    .chrome{font-size:9px;letter-spacing:1.5px;fill:#8b949e}
+    .chrome-rule{stroke:#d0d7de;stroke-width:1}
+    .cmd{fill:#8b949e}
+    .line{fill:#6e7781}
+    .hi{fill:#24292f;font-weight:600}
+    .rule{stroke:#d0d7de;stroke-width:1}
+    .cursor{fill:#8b949e}
+    @media (prefers-color-scheme:dark){
+      .frame,.chrome-rule,.rule{stroke:#30363d}
+      .cmd,.chrome,.cursor{fill:#6e7781}
+      .line{fill:#8b949e}
+      .hi{fill:#e6edf3}
+    }
+    @media (prefers-reduced-motion:reduce){
+      *{animation:none!important}
+      .caret{width:399.5px}
+      .line,.cmd,.rule,.cursor{opacity:1;stroke-dashoffset:0}
+    }
+    @keyframes type{0%{width:0} 2.5%{width:0} 13.75%{width:399.5px} 100%{width:399.5px}}.caret{animation:type 16.0s steps(50,end) infinite}@keyframes draw{0%{stroke-dashoffset:558.0} 16.875%{stroke-dashoffset:558.0} 20.0%{stroke-dashoffset:0} 100%{stroke-dashoffset:0}}.rule{stroke-dasharray:558.0;animation:draw 16.0s linear infinite}@keyframes show0{0%{opacity:0} 15.625%{opacity:0} 15.687%{opacity:1} 100%{opacity:1}}.l0{animation:show0 16.0s steps(1,end) infinite}@keyframes show1{0%{opacity:0} 18.438%{opacity:0} 18.5%{opacity:1} 100%{opacity:1}}.l1{animation:show1 16.0s steps(1,end) infinite}@keyframes show2{0%{opacity:0} 19.688%{opacity:0} 19.75%{opacity:1} 100%{opacity:1}}.l2{animation:show2 16.0s steps(1,end) infinite}@keyframes show3{0%{opacity:0} 20.938%{opacity:0} 21.0%{opacity:1} 100%{opacity:1}}.l3{animation:show3 16.0s steps(1,end) infinite}@keyframes show4{0%{opacity:0} 22.188%{opacity:0} 22.25%{opacity:1} 100%{opacity:1}}.l4{animation:show4 16.0s steps(1,end) infinite}@keyframes show5{0%{opacity:0} 25.0%{opacity:0} 25.062%{opacity:1} 100%{opacity:1}}.l5{animation:show5 16.0s steps(1,end) infinite}@keyframes blink{0%{opacity:0} 25.0%{opacity:0} 25.062%{opacity:1} 28.125%{opacity:1} 28.188%{opacity:0} 31.25%{opacity:0} 31.312%{opacity:1} 34.375%{opacity:1} 34.438%{opacity:0} 100%{opacity:0}}.cursor{animation:blink 16.0s steps(1,end) infinite}@keyframes cycle{0%{opacity:1} 83.75%{opacity:1} 90.0%{opacity:0} 100%{opacity:0}}.body{animation:cycle 16.0s linear infinite}</style><rect class="frame" x="0.5" y="0.5" width="613.0" height="235" rx="7"/><text class="chrome" x="28" y="26" xml:space="preserve">D A A &#160; L A B &#160; M A N U A L</text><line class="chrome-rule" x1="0" y1="40" x2="614.0" y2="40"/><g class="body"><clipPath id="type"><rect class="caret" x="28" y="48" width="399.5" height="19"/></clipPath><g clip-path="url(#type)"><text class="cmd" x="28" y="62" xml:space="preserve">$ python3 Exp10_Randomized_QuickSort/quick_sort.py</text></g><text class="line l0" x="28" y="100" xml:space="preserve">Input Type          DQS Comps   DQS Time(ms)    RQS Comps   RQS Time(ms)</text><line class="rule" x1="28" y1="108" x2="586.0" y2="108"/><text class="line l1" x="28" y="139" xml:space="preserve">Random                  72787           5.54        68592           6.33</text><text class="line l2" x="28" y="158" xml:space="preserve">Sorted               12497500         <tspan class="hi">961.91</tspan>        66922           6.35</text><text class="line l3" x="28" y="177" xml:space="preserve">Reverse              12497500         <tspan class="hi">729.44</tspan>        71990           6.77</text><text class="line l4" x="28" y="196" xml:space="preserve">Nearly Sorted          240562          18.02        70523           6.46</text><text class="cmd l5" x="28" y="234" xml:space="preserve">$</text><rect class="cursor" x="43.5" y="224" width="7.75" height="13"/></g></svg>
